@@ -11,7 +11,7 @@
     "node": ">=8.15.1"
   },
   "author": "Mac",
-  "homepage": "https://vivekbhore123.github.io/wed/",
+  "homepage": "https://vivekbhore123.github.io/sol/",
   "license": "MIT",
   "scripts": {
     "analyze:clean": "rimraf stats.json", 
